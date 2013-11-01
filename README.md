@@ -18,6 +18,7 @@ Or install it yourself as:
 ## Using the javascripts
 
 Require jquery-fileapi in your app/assets/application.js file.
+
     //= require jquery-fileapi
 
 ## Contributing
