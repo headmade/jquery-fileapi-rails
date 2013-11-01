@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["anti191@gmail.com"]
   spec.description   = %q{jQuery.FileAPI for Rails Asset Pipeline}
   spec.summary       = %q{jQuery.FileAPI for Rails Asset Pipeline}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/headmade/jquery-fileapi-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
