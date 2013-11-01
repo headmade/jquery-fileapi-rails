@@ -1,6 +1,5 @@
-# Jquery::Fileapi::Rails
-
-TODO: Write a gem description
+# jQuery Fileapi for Rails
+[jQuery.FileAPI](https://github.com/RubaXa/jquery.fileapi) jQuery plugin for FileAPI (multiupload, image upload, crop, resize and etc.)
 
 ## Installation
 
@@ -16,9 +15,10 @@ Or install it yourself as:
 
     $ gem install jquery-fileapi-rails
 
-## Usage
+## Using the javascripts
 
-TODO: Write usage instructions here
+Require jquery-fileapi in your app/assets/application.js file.
+    //= require jquery-fileapi
 
 ## Contributing
 
